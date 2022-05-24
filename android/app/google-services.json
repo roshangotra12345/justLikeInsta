@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747388187259",
+    "project_id": "mybestapp-60dbc",
+    "storage_bucket": "mybestapp-60dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747388187259:android:c3dd808627b861469268de",
+        "android_client_info": {
+          "package_name": "com.mybestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747388187259-pavdsrho64q76r9novvnca815fq36jg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkbYEdzXJTmo7zDzkEvjC83b3Qzu0i74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747388187259-pavdsrho64q76r9novvnca815fq36jg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
